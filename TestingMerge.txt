@@ -1,0 +1,1 @@
+Testing what will happen when 2 changes done, one on Github and the other in the same time on the local repository.
